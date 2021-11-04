@@ -9,6 +9,7 @@
         <module name="mybatis_spring" />
         <module name="Testes" />
         <module name="SpringDemo" />
+        <module name="qixiu" />
         <module name="mybatis" />
         <module name="hibernate_demo" />
       </profile>
